@@ -37,5 +37,5 @@ Want to enhance this project? 🚀 Fork this repository, add your improvements, 
 This project is licensed under the **MIT License**.
 
 ## 📧 Contact
-For any questions or suggestions, feel free to reach out! ✉️ Happy coding! 😃
+For any questions or suggestions, feel free to reach out!
 
